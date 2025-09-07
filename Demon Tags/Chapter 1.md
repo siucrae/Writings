@@ -118,7 +118,7 @@ Hoki smiled, her eyes already closing. “Goodnight, Suka.”
 
 “Goodnight, Hoki.”
 
-  
+---
 
 “How much longer until we’re there?” Hoki asked, her voice tinged with both excitement and exhaustion. She leaned forward, her pale violet eyes scanning the horizon as if the Academy might appear at any moment. Her white hair clung to her forehead in damp strands, and her lips were cracked from the dry air. Despite her weariness, there was a spark in her gaze, a restless energy that refused to be quelled.
 
