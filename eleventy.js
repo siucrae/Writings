@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
     return {
         dir: {
             input: "Karatai/Demon Tags/Chapters/",
-            includes: "../../_includes",
+            includes: "_includes",
             output: "_site"
         }
     };
