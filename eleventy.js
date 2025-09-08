@@ -3,8 +3,8 @@ module.exports = function(eleventyConfig) {
 
     return {
         dir: {
-            input: "content",
-            includes: "../_includes",
+            input: "Karatai/Demon Tags/Chapters/",
+            includes: "../../_includes",
             output: "_site"
         }
     };
